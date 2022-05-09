@@ -930,3 +930,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.09-09.21.47:051][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2022.05.09-09.21.47:079][269]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2022.05.09-09.22.01:113][877]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.09-09.22.28:416][347]LogEditorViewport: Clicking on Actor (LMB): Boss_Phase_2_BP_C (Boss_Phase_2_BP)
+[2022.05.09-09.22.28:598][353]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.09-09.22.38:919][ 61]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Léo/Blueprint/Boss_Phase_2/BP/Boss_Phase_2_BP.Boss_Phase_2_BP
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:078][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/Plug_in/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:079][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:080][ 61]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/Plug_in/Luos8Elements/X_Showcase_Content/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Plug_in/Character_Appearance_Dissolve/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.09-09.22.39:118][ 61]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.05.09-09.22.41:609][ 61]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.09-09.22.44:443][ 90]LogSlate: Window 'Boss_Phase_2_BP' being destroyed
+[2022.05.09-09.22.45:140][105]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2022.05.09-09.22.53:912][810]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Léo/Boss3D/Boss_no_eye.Boss_no_eye
+[2022.05.09-09.22.53:924][810]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.05.09-09.22.54:173][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.09-09.22.54:176][810]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2022.05.09-09.22.55:496][811]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2022.05.09-09.25.43:063][288]BlueprintLog: New page: Compile Boss_Phase_2_BP
+[2022.05.09-09.25.43:935][288]LogUObjectHash: Compacting FUObjectHashTables data took  17.65ms
+[2022.05.09-09.25.45:769][390]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.09-09.25.45:777][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.09-09.25.45:777][390]PIE: New page: PIE session: ThirdPersonExampleMap (9 mai 2022 à 13:25:45)
+[2022.05.09-09.25.45:777][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.09-09.25.45:812][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034522s)
+[2022.05.09-09.25.45:813][390]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.09-09.25.45:814][390]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2022.05.09-09.25.45:814][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036626s)
+[2022.05.09-09.25.45:875][390]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.05.09-09.25.45:878][390]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.09-09.25.45:878][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.09-09.25.45:878][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.09-09.25.45:879][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.09-09.25.45:879][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.09-09.25.45:879][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.09-09.25.45:879][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.09-09.25.45:879][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.09-09.25.45:879][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.09-09.25.45:879][390]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.09-09.25.45:879][390]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.09-09.25.45:882][390]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.09-09.25.45:882][390]LogAudioMixer: Display: 1: FrontRight
+[2022.05.09-09.25.45:987][390]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.05.09-09.25.45:988][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.09-09.25.45:988][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.09-09.25.45:988][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.09-09.25.45:989][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.09-09.25.45:989][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.09-09.25.45:989][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.09-09.25.46:031][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.09-09.25.46:031][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.09-09.25.46:031][390]LogInit: FAudioDevice initialized.
+[2022.05.09-09.25.46:031][390]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.05.09-09.25.46:087][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.09-09.25.46:088][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.09-09.25.46:115][390]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.09-11.25.46
+[2022.05.09-09.25.46:119][390]LogWorld: Bringing up level for play took: 0.029431
+[2022.05.09-09.25.46:120][390]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.05.09-09.25.46:204][390]PIE: Server logged in
+[2022.05.09-09.25.46:206][390]PIE: Play in editor total start time 0,43 seconds.
+[2022.05.09-09.25.46:263][391]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.05.09-09.25.46:272][391]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.093331 > MaxSimulationTimeStep (0.050) for 'BOSS_2', movement 'Walking'
+[2022.05.09-09.25.47:000][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] False
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriCoord', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:037][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.49:038][416]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.05.09-09.25.51:816][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.09-09.25.51:816][444]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.09-09.25.51:817][444]LogSlate: Window 'Childhood_Adventure Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.09-09.25.51:826][444]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.09-09.25.51:849][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.09-09.25.51:875][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.09-09.25.51:937][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.09-09.25.51:984][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.09-09.25.51:984][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.09-09.25.51:985][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.09-09.25.52:011][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.05.09-09.25.52:126][445]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.09-09.25.56:256][755]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.09-09.25.56:264][755]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.09-09.25.56:277][755]LogPlayLevel: [PlayLevel] Compiling Boss_Phase_2_BP before play...
+[2022.05.09-09.25.57:383][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2022.05.09-09.25.57:387][755]LogPlayLevel: PlayLevel: Blueprint regeneration took 1122 ms (1 blueprints)
+[2022.05.09-09.25.57:387][755]PIE: New page: PIE session: ThirdPersonExampleMap (9 mai 2022 à 13:25:57)
+[2022.05.09-09.25.57:387][755]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.09-09.25.57:420][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032766s)
+[2022.05.09-09.25.57:421][755]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.09-09.25.57:422][755]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2022.05.09-09.25.57:422][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034356s)
+[2022.05.09-09.25.57:471][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.09-09.25.57:471][755]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.09-09.25.57:471][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.09-09.25.57:471][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.09-09.25.57:472][755]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.09-09.25.57:472][755]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.09-09.25.57:474][755]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.09-09.25.57:474][755]LogAudioMixer: Display: 1: FrontRight
+[2022.05.09-09.25.57:574][755]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.05.09-09.25.57:575][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.09-09.25.57:575][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.09-09.25.57:575][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.09-09.25.57:576][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.09-09.25.57:576][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.09-09.25.57:576][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.09-09.25.57:618][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.09-09.25.57:618][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.09-09.25.57:618][755]LogInit: FAudioDevice initialized.
+[2022.05.09-09.25.57:618][755]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.05.09-09.25.57:687][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.09-09.25.57:687][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.09-09.25.57:711][755]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.09-11.25.57
+[2022.05.09-09.25.57:715][755]LogWorld: Bringing up level for play took: 0.025147
+[2022.05.09-09.25.57:715][755]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.09-09.25.57:823][755]PIE: Server logged in
+[2022.05.09-09.25.57:825][755]PIE: Play in editor total start time 1,562 seconds.
+[2022.05.09-09.25.58:014][756]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094257 > MaxSimulationTimeStep (0.050) for 'BOSS_2', movement 'Walking'
+[2022.05.09-09.25.58:575][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] False
+[2022.05.09-09.26.05:870][837]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4557.061 Y=-359.015 Z=152.476] for [Eyes_Bomber_Mob_BP_C]
+[2022.05.09-09.26.05:872][837]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3387.755 Y=-358.961 Z=152.518] for [Eyes_Bomber_Mob_BP_C]
+[2022.05.09-09.26.05:873][837]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3972.500 Y=1052.484 Z=152.494] for [Eyes_Bomber_Mob_BP_C]
+[2022.05.09-09.26.07:266][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.09-09.26.07:266][848]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.09-09.26.07:267][848]LogSlate: Window 'Childhood_Adventure Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.09-09.26.07:275][848]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.09-09.26.07:298][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.09-09.26.07:320][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.09-09.26.07:398][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.09-09.26.07:450][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.09-09.26.07:451][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.09-09.26.07:479][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.05.09-09.26.07:586][849]LogPlayLevel: Display: Destroying online subsystem :Context_15
