@@ -942,3 +942,621 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.08-11.30.55:911][702]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Map_TEST0C7ADF46427B9E90A885488729B3053E.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Map/Map_TEST.umap'
 [2022.06.08-11.30.55:945][702]AssetCheck: New page: Asset Save: Map_TEST
 [2022.06.08-11.30.55:945][702]LogContentValidation: Display: Validating World /Game/Danial/Map/Map_TEST.Map_TEST
+[2022.06.08-11.35.26:107][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.08-11.35.26:159][320]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Léo/Blueprint/LaserCircle/LaserCircle.LaserCircle_C or BlueprintGeneratedClass /Game/Léo/Blueprint/Boss/Boss_Phase_1/Behavior_Three/Task/LaserCircle.LaserCircle_C
+[2022.06.08-11.35.26:960][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Level\Map_Mat_LevelArt2.umap: Failed to load '/Game/Matteo/Level/Map_Mat_LevelArt2_BuiltData': Can't find file.
+[2022.06.08-11.35.26:960][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Level\Map_Mat_LevelArt2.umap: Failed to load '/Game/Matteo/Level/Map_Mat_LevelArt2_BuiltData': Can't find file.
+[2022.06.08-11.35.27:010][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\LD_FBX\Balençoire.uasset: Failed to load '/Game/Matteo/LD_FBX/lambert1': Can't find file.
+[2022.06.08-11.35.27:011][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\LD_FBX\Balençoire.uasset: Failed to load '/Game/Matteo/LD_FBX/lambert1': Can't find file.
+[2022.06.08-11.35.27:011][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\LD_FBX\Balençoire.uasset: Failed to load '/Game/Matteo/LD_FBX/lambert1': Can't find file.
+[2022.06.08-11.35.27:019][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Level\Map_Mat_LevelArt2.umap: Failed to load '/Game/Matteo/Level/Map_Mat_LevelArt2_BuiltData': Can't find file.
+[2022.06.08-11.35.27:157][320]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Level\Map_Mat_LevelArt2.umap: Failed to load '/Game/Matteo/Level/Map_Mat_LevelArt2_BuiltData': Can't find file.
+[2022.06.08-11.35.27:157][320]LoadErrors: Failed to load /Game/Matteo/Level/Map_Mat_LevelArt2_BuiltData.Map_Mat_LevelArt2_BuiltData Referenced by PersistentLevel
+[2022.06.08-11.35.27:862][320]LogTexture: Display: Building textures: arbre (AutoDXT, 2632X3432)
+[2022.06.08-11.35.27:862][320]LogMaterial: Display: Missing cached shader map for material M_dessin, compiling. 
+[2022.06.08-11.35.28:051][320]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2022.06.08-11.35.28:051][320]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2022.06.08-11.35.28:052][320]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.06.08-11.35.28:052][320]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.06.08-11.35.28:052][320]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2022.06.08-11.35.28:052][320]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.06.08-11.35.28:052][320]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.06.08-11.35.28:745][320]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Matteo/Level/Map_Mat_LevelArt2.Map_Mat_LevelArt2
+[2022.06.08-11.35.28:745][320]Cmd: MAP LOAD FILE="../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Matteo/Level/Map_Mat_LevelArt2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.08-11.35.28:745][320]LightingResults: New page: Lighting Build
+[2022.06.08-11.35.28:745][320]LoadErrors: New page: Loading map: Map_Mat_LevelArt2.umap
+[2022.06.08-11.35.28:775][320]LogWorld: UWorld::CleanupWorld for Map_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-11.35.28:776][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-11.35.28:777][320]MapCheck: New page: Map Check
+[2022.06.08-11.35.28:777][320]LightingResults: New page: Lighting Build
+[2022.06.08-11.35.28:857][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.08-11.35.28:891][320]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.06.08-11.35.28:894][320]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Mat_LevelArt2'.
+[2022.06.08-11.35.30:058][320]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.08-11.35.30:058][320]LogAIModule: Creating AISystem for world Map_Mat_LevelArt2
+[2022.06.08-11.35.30:246][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.06.08-11.35.30:262][320]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.08-11.35.30:263][320]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,3ms to complete.
+[2022.06.08-11.35.30:263][320]LogFileHelpers: Loading map 'Map_Mat_LevelArt2' took 1.518
+[2022.06.08-11.35.54:691][760]LogRenderer: Reallocating scene render targets to support 1172x660 Format 10 NumSamples 1 (Frame:1439).
+[2022.06.08-11.35.54:716][761]LogRenderer: Reallocating scene render targets to support 1172x684 Format 10 NumSamples 1 (Frame:1441).
+[2022.06.08-11.35.54:739][762]LogRenderer: Reallocating scene render targets to support 1172x732 Format 10 NumSamples 1 (Frame:1443).
+[2022.06.08-11.35.54:764][763]LogRenderer: Reallocating scene render targets to support 1172x756 Format 10 NumSamples 1 (Frame:1445).
+[2022.06.08-11.35.54:792][764]LogRenderer: Reallocating scene render targets to support 1172x772 Format 10 NumSamples 1 (Frame:1447).
+[2022.06.08-11.35.54:819][765]LogRenderer: Reallocating scene render targets to support 1172x780 Format 10 NumSamples 1 (Frame:1449).
+[2022.06.08-11.35.54:845][766]LogRenderer: Reallocating scene render targets to support 1172x788 Format 10 NumSamples 1 (Frame:1451).
+[2022.06.08-11.35.54:868][767]LogRenderer: Reallocating scene render targets to support 1172x796 Format 10 NumSamples 1 (Frame:1453).
+[2022.06.08-11.35.54:888][768]LogRenderer: Reallocating scene render targets to support 1172x804 Format 10 NumSamples 1 (Frame:1455).
+[2022.06.08-11.35.54:921][770]LogRenderer: Reallocating scene render targets to support 1172x808 Format 10 NumSamples 1 (Frame:1459).
+[2022.06.08-11.35.54:940][771]LogRenderer: Reallocating scene render targets to support 1172x820 Format 10 NumSamples 1 (Frame:1461).
+[2022.06.08-11.35.54:956][772]LogRenderer: Reallocating scene render targets to support 1172x832 Format 10 NumSamples 1 (Frame:1463).
+[2022.06.08-11.35.54:974][773]LogRenderer: Reallocating scene render targets to support 1172x844 Format 10 NumSamples 1 (Frame:1465).
+[2022.06.08-11.35.54:993][774]LogRenderer: Reallocating scene render targets to support 1172x852 Format 10 NumSamples 1 (Frame:1467).
+[2022.06.08-11.36.07:923][531]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.08-11.36.08:021][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.08-11.36.08:045][531]PIE: New page: PIE session: Map_Mat_LevelArt2 (8 juin 2022 à 15:36:08)
+[2022.06.08-11.36.08:078][531]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.08-11.36.08:092][531]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.08-11.36.08:107][531]LogPlayLevel: Creating play world package: /Game/Matteo/Level/UEDPIE_0_Map_Mat_LevelArt2
+[2022.06.08-11.36.08:338][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.231422s)
+[2022.06.08-11.36.08:364][531]LogAIModule: Creating AISystem for world Map_Mat_LevelArt2
+[2022.06.08-11.36.08:365][531]LogPlayLevel: PIE: World Init took: (0.026661s)
+[2022.06.08-11.36.08:366][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Matteo/Level/Map_Mat_LevelArt2.Map_Mat_LevelArt2 to /Game/Matteo/Level/UEDPIE_0_Map_Mat_LevelArt2.Map_Mat_LevelArt2 (0.258721s)
+[2022.06.08-11.36.08:381][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.06.08-11.36.08:402][531]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.08-11.36.08:402][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.08-11.36.08:402][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.08-11.36.08:402][531]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.08-11.36.08:403][531]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.08-11.36.08:406][531]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.08-11.36.08:406][531]LogAudioMixer: Display: 1: FrontRight
+[2022.06.08-11.36.08:427][531]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2022.06.08-11.36.08:427][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.08-11.36.08:427][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.08-11.36.08:427][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.08-11.36.08:427][531]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.08-11.36.08:427][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.08-11.36.08:428][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.08-11.36.08:439][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.08-11.36.08:439][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.08-11.36.08:439][531]LogInit: FAudioDevice initialized.
+[2022.06.08-11.36.08:439][531]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Mat_LevelArt2'.
+[2022.06.08-11.36.08:469][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.08-11.36.08:550][531]LogWorld: Bringing World /Game/Matteo/Level/UEDPIE_0_Map_Mat_LevelArt2.Map_Mat_LevelArt2 up for play (max tick rate 60) at 2022.06.08-13.36.08
+[2022.06.08-11.36.08:605][531]LogWorld: Bringing up level for play took: 0.111095
+[2022.06.08-11.36.08:605][531]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.06.08-11.36.08:687][531]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.06.08-11.36.08:936][531]PIE: Server logged in
+[2022.06.08-11.36.08:953][531]PIE: Play in editor total start time 0,953 seconds.
+[2022.06.08-11.36.09:185][532]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099556 > MaxSimulationTimeStep (0.050) for 'OmbraCharacter32', movement 'Walking'
+[2022.06.08-11.36.09:186][532]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099556 > MaxSimulationTimeStep (0.050) for 'OmbraCharacter33', movement 'Walking'
+[2022.06.08-11.36.09:292][534]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.08-11.36.11:073][607]LogBlueprintUserMessages: [DialogueIntro_2] 1
+[2022.06.08-11.36.11:073][607]LogBlueprintUserMessages: [Widget_Acceuil_C_0] 0
+[2022.06.08-11.36.11:073][607]LogBlueprintUserMessages: [Widget_Acceuil_C_0] true
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriCoord', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.15:962][823]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'RandomTriCoord', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetSkinnedTriangleDataWS', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.16:837][863]LogNiagara: Skeletal Mesh Data Interface is trying to use triangle sampling function 'GetTriUV', but either no CPU access is set on the mesh or the data is invalid. Interface: NiagaraDataInterfaceSkeletalMesh /Game/Léo/Blueprint/Dash/Dash.Dash:Empty.SpawnScript.NiagaraDataInterfaceSkeletalMesh_8
+[2022.06.08-11.36.28:231][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-11.36.28:231][396]LogWorld: BeginTearingDown for /Game/Matteo/Level/UEDPIE_0_Map_Mat_LevelArt2
+[2022.06.08-11.36.28:271][396]LogWorld: UWorld::CleanupWorld for Map_Mat_LevelArt2, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-11.36.28:281][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-11.36.28:293][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.08-11.36.28:300][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-11.36.28:318][396]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.08-11.36.28:322][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.08-11.36.28:322][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.08-11.36.28:336][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-11.36.28:360][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.06.08-11.36.28:403][397]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.08-11.36.31:722][592]MapCheck: New page: Map Check
+[2022.06.08-11.36.31:768][592]Cmd: MAP REBUILD ALLVISIBLE
+[2022.06.08-11.36.31:768][592]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.06.08-11.36.32:354][592]LogWorld: UWorld::CleanupWorld for Map_Mat_LevelArt2, bSessionEnded=true, bCleanupResources=false
+[2022.06.08-11.36.32:914][592]LightingResults: New page: Lighting Build - 8 juin 2022 à 15:36:32
+[2022.06.08-11.36.33:143][592]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.08-11.36.33:543][592]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.08-11.36.33:554][592]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.08-11.36.34:577][592]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.08-11.36.34:577][592]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17608
+[2022.06.08-11.36.41:261][592]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.08-11.36.41:261][592]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.08-11.36.41:261][592]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.08-11.36.41:261][592]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.08-11.36.41:261][592]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.08-11.36.41:715][592]LogEditorBuildUtils: Build time 0:09
+[2022.06.08-11.36.42:055][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_lumiere, compiling. 
+[2022.06.08-11.36.42:057][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_lumiere, compiling. 
+[2022.06.08-11.36.42:093][595]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.06.08-11.36.42:093][595]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.06.08-11.36.42:093][595]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.06.08-11.36.42:093][595]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.06.08-11.36.42:115][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Balencoire, compiling. 
+[2022.06.08-11.36.42:117][596]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.06.08-11.36.42:118][596]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.06.08-11.36.42:118][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Balencoire, compiling. 
+[2022.06.08-11.36.42:122][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2022.06.08-11.36.42:126][596]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.06.08-11.36.42:126][596]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.06.08-11.36.42:126][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2022.06.08-11.36.42:182][597]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_ombre, compiling. 
+[2022.06.08-11.36.42:188][597]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_ombre, compiling. 
+[2022.06.08-11.36.42:193][597]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_ombre, compiling. 
+[2022.06.08-11.36.42:230][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_dessin, compiling. 
+[2022.06.08-11.36.42:234][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_dessin, compiling. 
+[2022.06.08-11.36.42:238][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_dessin, compiling. 
+[2022.06.08-11.36.42:270][599]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mur1, compiling. 
+[2022.06.08-11.36.42:273][599]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mur1, compiling. 
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.06.08-11.36.43:923][599]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.06.08-11.36.44:328][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.06.08-11.37.02:296][652]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.02:296][652]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.04:279][769]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.04:279][769]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.04:872][804]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.04:872][804]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.05:903][866]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.05:903][866]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.06:659][911]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.06:659][911]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.07:566][965]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.07:566][965]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.08:806][ 39]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.08:806][ 39]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.15:161][419]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.15:161][419]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.18:154][596]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.18:154][596]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.19:799][694]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.19:821][695]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.20:875][758]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.20:875][758]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.22:838][875]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.22:838][875]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.24:021][946]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.24:021][946]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.24:799][992]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.24:799][992]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.25:468][ 32]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.25:468][ 32]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.26:137][ 72]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.26:149][ 73]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.27:191][135]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.27:191][135]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.27:926][179]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.27:926][179]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.28:661][223]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.28:661][223]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.32:058][426]LightingResults: Warning: Zcartable Object has overlapping UVs.
+[2022.06.08-11.37.32:058][426]LightingResults: Zcartable Lightmap UV are overlapping by 89.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.49:041][440]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.49:041][440]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.37.49:568][472]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.37.49:568][472]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.15:192][  1]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.15:192][  1]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.16:431][ 75]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.16:431][ 75]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.18:305][187]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.18:305][187]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.18:940][225]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.18:940][225]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.20:004][288]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.20:004][288]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.20:618][325]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.20:618][325]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.21:056][351]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.21:056][351]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.21:825][397]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.21:825][397]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.38.54:786][364]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.38.54:786][364]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.04:582][948]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.04:582][948]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.08:167][162]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.08:167][162]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.08:602][188]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.08:602][188]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.16:724][673]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.16:724][673]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.17:152][699]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.17:152][699]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.24:306][126]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.24:306][126]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.24:428][133]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.24:428][133]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.33:430][670]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.33:430][670]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.33:990][703]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.33:990][703]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.37:981][941]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.37:981][941]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.54:279][913]LightingResults: Warning: Box_Brush2_StaticMesh Object has wrapping UVs.
+[2022.06.08-11.39.56:010][ 16]LightingResults: Warning: 4A Object has wrapping UVs.
+[2022.06.08-11.39.56:856][ 66]LightingResults: Warning: 2B Object has wrapping UVs.
+[2022.06.08-11.39.57:251][ 89]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.57:251][ 89]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.57:623][111]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.57:623][111]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.57:635][112]LightingResults: Warning: toitCjespereilbougeraplus Object has wrapping UVs.
+[2022.06.08-11.39.58:260][149]LightingResults: Warning: biblio Object has overlapping UVs.
+[2022.06.08-11.39.58:260][149]LightingResults: biblio Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.08-11.39.58:732][176]LightingResults: Warning: encoreboutfailleA_3 Object has wrapping UVs.
+[2022.06.08-11.39.59:357][213]LightingResults: Warning: encoreboutfailleA_2 Object has wrapping UVs.
+[2022.06.08-11.40.00:048][254]LightingResults: Warning: encoreboutfailleA Object has wrapping UVs.
+[2022.06.08-11.40.01:241][325]LightingResults: Warning: encore_Toit Object has wrapping UVs.
+[2022.06.08-11.40.02:326][390]LightingResults: Warning: MurCour Object has wrapping UVs.
+[2022.06.08-11.40.04:307][509]Job is a success!
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.034s
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:          1: 20.1% covering 11.3% of volume
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:          2: 77.1% covering 0.7% of volume
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.08-11.40.04:460][510]LogVolumetricLightmapImport:          Map_Mat_LevelArt2 			 144 bricks 	 100.0% (Persistent Level)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 4096X2048)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 4096X4096)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 4096X4096)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 512X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 512X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 512X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 512X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 512X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 512X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 128X64)
+[2022.06.08-11.40.15:620][510]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 64X32)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 64X64)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 64X64)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 64X32)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 64X64)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 64X64)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 256X128)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 64X32)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 64X64)
+[2022.06.08-11.40.15:621][510]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 64X64)
+[2022.06.08-11.40.15:799][510]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X64)
+[2022.06.08-11.40.15:799][510]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2022.06.08-11.40.15:799][510]Lightmass on MSI: 3:30 min total, 1.63 sec importing, 747 ms setup, 12.1 sec photons, 3:15 min processing, 0 ms extra exporting [2841/2841 mappings]. Threads: 35:54 min total, 28:16 min processing.
+[2022.06.08-11.40.15:892][510]LogStaticLightingSystem: Map_Mat_LevelArt2_BuiltData storing lightmap data for 2561 meshes in 32 LightmapResourceClusters (80.0 Meshes per cluster).
+[2022.06.08-11.40.15:931][510]LogMaterial: Display: Material /Game/Léo/Destructible_mesh/Mur1.Mur1 needed to have new flag set bUsedWithStaticLighting !
+[2022.06.08-11.40.15:969][510]LogMaterial: Display: Missing cached shader map for material Mur1, compiling. 
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.06.08-11.40.16:048][510]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.06.08-11.40.16:048][510]LogMaterial: Display: Material /Game/Danial/Import_du_030622/Balencoire/Balencoire.Balencoire needed to have new flag set bUsedWithStaticLighting !
+[2022.06.08-11.40.16:049][510]LogMaterial: Display: Missing cached shader map for material Balencoire, compiling. 
+[2022.06.08-11.40.16:066][510]LogMaterial: Display: Material /Game/Danial/Import_du_030622/Cage/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2022.06.08-11.40.16:067][510]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2022.06.08-11.40.16:067][510]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2022.06.08-11.40.16:165][510]LogMaterial: Display: Material /Game/Francois/Model_3d/M_dessin.M_dessin needed to have new flag set bUsedWithStaticLighting !
+[2022.06.08-11.40.16:167][510]LogMaterial: Display: Missing cached shader map for material M_dessin, compiling. 
+[2022.06.08-11.40.16:243][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.06.08-11.40.16:399][510]LogStaticLightingSystem: Illumination: 3:43 min (9.52 sec encoding lightmaps, 84 ms encoding shadowmaps)
+[2022.06.08-11.40.16:399][510]LogStaticLightingSystem: Lightmap texture memory:  70.0 MB (54.0 MB streaming, 16.0 MB non-streaming), 60 textures
+[2022.06.08-11.40.16:399][510]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (0.3 MB streaming, 1.3 MB non-streaming), 2 textures
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 106
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 96
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 86
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 66
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 57
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2022.06.08-11.40.21:350][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2022.06.08-11.40.21:351][510]DumpUnbuiltLightIteractions
+[2022.06.08-11.40.21:351][510]Lights with unbuilt interactions: 0
+[2022.06.08-11.40.21:351][510]
+[2022.06.08-11.40.21:351][510]Primitives with unbuilt interactions: 0
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.06.08-11.40.25:186][510]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.06.08-11.40.25:561][510]LogTexture: Display: Building textures: NewReflectionComponentTexture278623DC425B40EEC7C73A84E0380B18 (BGRA8, 128X128)
+[2022.06.08-11.40.25:695][510]LogSlate: Took 0.036782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.08-11.40.25:700][511]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.08-11.40.25:700][511]MapCheck: New page: Map_Mat_LevelArt2 - 8 juin 2022 à 15:40:25
+[2022.06.08-11.40.25:759][511]MapCheck: Warning: Death_Zone2_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.08-11.40.25:759][511]MapCheck: Warning: 2A Static mesh actor has NULL StaticMesh property 
+[2022.06.08-11.40.25:767][511]MapCheck: Warning: Eyes_Ino103 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.06.08-11.40.25:767][511]MapCheck: Warning: Eyes_Ino105 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.06.08-11.40.25:769][511]MapCheck: Warning: escalier1 Static mesh actor has NULL StaticMesh property 
+[2022.06.08-11.40.25:769][511]MapCheck: Warning: Terrain_Collider_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.06.08-11.40.25:769][511]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 69,41ms to complete.
+[2022.06.08-11.44.31:260][231]LogSlate: Window 'Message Log' being destroyed
+[2022.06.08-11.44.31:264][231]LogSlate: Window 'Message Log' being destroyed
+[2022.06.08-11.46.08:413][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.08-11.46.09:764][  0]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Map_Mat_LevelArt2_Auto1F6B1EE2143868AEB36FAD7A25B1B04EA.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Autosaves/Game/Matteo/Level/Map_Mat_LevelArt2_Auto1.umap'
+[2022.06.08-11.46.09:783][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Matteo/Level/Map_Mat_LevelArt2' took 1.523
+[2022.06.08-11.46.09:783][  0]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.523
+[2022.06.08-11.46.09:806][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Léo/Destructible_mesh/Mur1] ([1] browsable assets)...
+[2022.06.08-11.46.09:823][  0]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Léo/Destructible_mesh/Mur1.Mur1]
+[2022.06.08-11.46.09:823][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Léo/Destructible_mesh/Mur1]
+[2022.06.08-11.46.09:831][  0]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Mur1_Auto19CE8B64647B918BC0BA623A6B19487CD.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Autosaves/Game/Léo/Destructible_mesh/Mur1_Auto1.uasset'
+[2022.06.08-11.46.09:832][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Danial/Import_du_030622/Balencoire/Balencoire] ([1] browsable assets)...
+[2022.06.08-11.46.09:843][  0]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Danial/Import_du_030622/Balencoire/Balencoire.Balencoire]
+[2022.06.08-11.46.09:843][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Danial/Import_du_030622/Balencoire/Balencoire]
+[2022.06.08-11.46.09:851][  0]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Balencoire_Auto1844A351B4080C8E8502CD48704FBA5A7.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Autosaves/Game/Danial/Import_du_030622/Balencoire/Balencoire_Auto1.uasset'
+[2022.06.08-11.46.09:852][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Danial/Import_du_030622/Cage/lambert1] ([1] browsable assets)...
+[2022.06.08-11.46.09:863][  0]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Danial/Import_du_030622/Cage/lambert1.lambert1]
+[2022.06.08-11.46.09:863][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Danial/Import_du_030622/Cage/lambert1]
+[2022.06.08-11.46.09:870][  0]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/lambert1_Auto16EFBFF154687FB9FBA7DC68F8A4AB895.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Autosaves/Game/Danial/Import_du_030622/Cage/lambert1_Auto1.uasset'
+[2022.06.08-11.46.09:871][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Francois/Model_3d/MI_dessin] ([1] browsable assets)...
+[2022.06.08-11.46.09:890][  0]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Francois/Model_3d/MI_dessin.MI_dessin]
+[2022.06.08-11.46.09:890][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Francois/Model_3d/MI_dessin]
+[2022.06.08-11.46.09:898][  0]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/MI_dessin_Auto1C89682464E39DBDB7E2DFDB4D6EA4D2E.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Autosaves/Game/Francois/Model_3d/MI_dessin_Auto1.uasset'
+[2022.06.08-11.46.09:899][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Francois/Model_3d/M_dessin] ([1] browsable assets)...
+[2022.06.08-11.46.09:910][  0]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Francois/Model_3d/M_dessin.M_dessin]
+[2022.06.08-11.46.09:910][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Francois/Model_3d/M_dessin]
+[2022.06.08-11.46.09:919][  0]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/M_dessin_Auto119DCD01A47FCAD9B6EE6CEB2F093F430.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Autosaves/Game/Francois/Model_3d/M_dessin_Auto1.uasset'
+[2022.06.08-11.46.09:920][  0]LogFileHelpers: Auto-saving content packages took 0.115
+[2022.06.08-11.50.22:595][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.06.08-11.50.23:685][174]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.08-11.50.23:742][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.06.08-11.50.23:757][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.08-11.50.23:777][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.06.08-11.50.23:792][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.08-11.52.49:145][ 71]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\dania\Desktop\New_props\MurCour_D.FBX)
+[2022.06.08-11.52.49:152][ 71]LogFbx: Loading FBX Scene from C:\Users\dania\Desktop\New_props\MurCour_D.FBX
+[2022.06.08-11.52.49:478][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.08-11.52.52:012][ 71]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.08-11.52.52:028][ 71]LogMaterial: Display: Missing cached shader map for material lambert11, compiling. 
+[2022.06.08-11.52.52:069][ 71]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.06.08-11.52.52:069][ 71]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.06.08-11.52.52:069][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.06.08-11.52.52:069][ 71]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.06.08-11.52.52:069][ 71]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.06.08-11.52.52:069][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.06.08-11.52.52:069][ 71]LogFbx: Display: Triangulating static mesh polySurface1764
+[2022.06.08-11.52.52:204][ 71]LogStaticMesh: Building static mesh MurCour_D...
+[2022.06.08-11.52.52:225][ 71]LogStaticMesh: Built static mesh [0.02s] /Game/Danial/Props/Modé_Muerts/MurCour_D.MurCour_D
+[2022.06.08-11.52.52:256][ 71]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.06.08-11.52.52:286][ 71]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\dania\Desktop\New_props\MurCour_G.FBX)
+[2022.06.08-11.52.52:300][ 71]LogFbx: Loading FBX Scene from C:\Users\dania\Desktop\New_props\MurCour_G.FBX
+[2022.06.08-11.52.52:309][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.08-11.52.53:629][ 71]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.08-11.52.53:648][ 71]LogMaterial: Display: Missing cached shader map for material lambert12, compiling. 
+[2022.06.08-11.52.53:680][ 71]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.06.08-11.52.53:680][ 71]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.06.08-11.52.53:680][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.06.08-11.52.53:680][ 71]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.06.08-11.52.53:680][ 71]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.06.08-11.52.53:680][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.06.08-11.52.53:680][ 71]LogFbx: Display: Triangulating static mesh polySurface1765
+[2022.06.08-11.52.53:806][ 71]LogStaticMesh: Building static mesh MurCour_G...
+[2022.06.08-11.52.53:836][ 71]LogStaticMesh: Built static mesh [0.03s] /Game/Danial/Props/Modé_Muerts/MurCour_G.MurCour_G
+[2022.06.08-11.52.53:888][ 71]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.06.08-11.52.55:437][141]LogSlate: Window 'Message Log' being destroyed
+[2022.06.08-11.52.55:441][141]LogSlate: Window 'Message Log' being destroyed
+[2022.06.08-11.52.56:515][202]LogActorFactory: Actor Factory created MurCour_D
+[2022.06.08-11.52.56:520][202]LogActorFactory: Actor Factory created MurCour_G
+[2022.06.08-11.52.57:557][262]LogActorFactory: Actor Factory created MurCour_D
+[2022.06.08-11.52.58:006][262]LogActorFactory: Actor Factory created MurCour_G
+[2022.06.08-11.53.10:882][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MurCour_G)
+[2022.06.08-11.53.14:146][209]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Matteo/Level/Map_Mat_LevelArt2.Map_Mat_LevelArt2:PersistentLevel.MurCour_G_5.StaticMeshComponent0)
+[2022.06.08-11.53.14:164][210]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Matteo/Level/Map_Mat_LevelArt2.Map_Mat_LevelArt2:PersistentLevel.MurCour_G_5.StaticMeshComponent0)
+[2022.06.08-11.53.14:429][226]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Matteo/Level/Map_Mat_LevelArt2.Map_Mat_LevelArt2:PersistentLevel.MurCour_G_5.StaticMeshComponent0)
+[2022.06.08-11.53.14:530][232]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Matteo/Level/Map_Mat_LevelArt2.Map_Mat_LevelArt2:PersistentLevel.MurCour_G_5.StaticMeshComponent0)
+[2022.06.08-11.53.25:925][896]Cmd: TRANSACTION UNDO
+[2022.06.08-11.53.25:925][896]LogEditorTransaction: Undo Move Actors
+[2022.06.08-11.53.26:139][902]Cmd: TRANSACTION UNDO
+[2022.06.08-11.53.26:140][902]LogEditorTransaction: Undo Rotate Actors
+[2022.06.08-11.53.27:488][977]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (MurCour_D)
+[2022.06.08-11.53.28:455][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MurCour_D)
+[2022.06.08-11.53.30:706][155]Cmd: DELETE
+[2022.06.08-11.53.30:706][155]Cmd: ACTOR DELETE
+[2022.06.08-11.53.30:815][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-11.53.30:815][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.08-11.53.30:830][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.06.08-11.53.30:834][155]LogEditorActor: Deleted 2 Actors (0.099 secs)
+[2022.06.08-11.53.48:670][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.08-11.53.52:765][153]LogSlate: Window 'Save Content' being destroyed
+[2022.06.08-11.53.52:836][153]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Blueprint\Gate.uasset: Failed to load '/Game/Léo/Blueprint/ThirdPersonCharacter_Leo_BP': Can't find file.
+[2022.06.08-11.53.52:836][153]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Blueprint\Gate.uasset: Failed to load '/Game/Léo/Blueprint/ThirdPersonCharacter_Leo_BP': Can't find file.
+[2022.06.08-11.53.52:836][153]LogLinker: Warning: [AssetLog] D:\ChildhoodAdventure\ChildhoodAdventure\Childhood_Adventure\Content\Matteo\Blueprint\Gate.uasset: Failed to load '/Game/Léo/Blueprint/ThirdPersonCharacter_Leo_BP': Can't find file.
+[2022.06.08-11.53.53:337][153]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Danial/Map/Map_TEST.Map_TEST
+[2022.06.08-11.53.53:337][153]Cmd: MAP LOAD FILE="../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Map/Map_TEST.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.08-11.53.53:337][153]LightingResults: New page: Lighting Build
+[2022.06.08-11.53.53:338][153]LoadErrors: New page: Loading map: Map_TEST.umap
+[2022.06.08-11.53.53:382][153]LogWorld: UWorld::CleanupWorld for Map_Mat_LevelArt2, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-11.53.53:383][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-11.53.53:384][153]MapCheck: New page: Map Check
+[2022.06.08-11.53.53:384][153]LightingResults: New page: Lighting Build
+[2022.06.08-11.53.53:430][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.08-11.53.53:487][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.06.08-11.53.53:491][153]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_TEST'.
+[2022.06.08-11.53.53:506][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:506][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:507][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:507][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:507][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence5.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:508][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence6.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:508][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence7.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:508][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence8.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:508][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence9.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:508][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence10.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:571][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:571][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:571][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence_2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:572][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:573][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:573][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:573][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:574][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:574][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:574][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:575][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:575][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence4.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:576][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence5.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:576][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence5.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:576][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence5.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:577][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence6.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:577][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence6.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:577][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence6.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:578][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence7.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:578][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence7.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:578][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence7.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:579][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence8.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:580][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence8.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:580][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence8.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:580][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence9.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:581][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence9.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:581][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence9.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:581][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence10.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:582][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence10.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:582][153]LogPhysics: Warning: Scale for /Game/Danial/Map/Map_TEST.Map_TEST:PersistentLevel.Fence10.Cube has a component set to zero, which will result in a bad body instance. Scale:X=5.200 Y=0.000 Z=3.700
+[2022.06.08-11.53.53:760][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.08-11.53.53:760][153]LogAIModule: Creating AISystem for world Map_TEST
+[2022.06.08-11.53.53:874][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.06.08-11.53.53:884][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.08-11.53.53:885][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,281ms to complete.
+[2022.06.08-11.53.53:885][153]LogFileHelpers: Loading map 'Map_TEST' took 0.547
+[2022.06.08-11.55.44:452][369]LogActorFactory: Actor Factory created MurCour_D
+[2022.06.08-11.55.45:921][449]LogActorFactory: Actor Factory created MurCour_D
+[2022.06.08-11.55.47:478][539]LogActorFactory: Actor Factory created MurCour_D
+[2022.06.08-11.55.47:863][558]Cmd: TRANSACTION UNDO
+[2022.06.08-11.55.47:863][558]LogEditorTransaction: Undo Create Actors
+[2022.06.08-11.55.50:745][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.06.08-11.55.52:304][684]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Map_TEST3735379D453C5661D40326BE0F1CAD5F.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Map/Map_TEST.umap'
+[2022.06.08-11.55.52:340][684]AssetCheck: New page: Asset Save: Map_TEST
+[2022.06.08-11.55.52:340][684]LogContentValidation: Display: Validating World /Game/Danial/Map/Map_TEST.Map_TEST
+[2022.06.08-11.55.53:560][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.08-11.55.53:575][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Léo/Destructible_mesh/Mur1" FILE="../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Léo/Destructible_mesh/Mur1.uasset" SILENT=true
+[2022.06.08-11.55.53:582][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Mur178A055994D8D27E164EC28B04F393E23.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Léo/Destructible_mesh/Mur1.uasset'
+[2022.06.08-11.55.53:620][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/Balencoire56E8C5F64305D703FAE981A72554748E.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Import_du_030622/Balencoire/Balencoire.uasset'
+[2022.06.08-11.55.53:637][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/lambert13C8A272B4CD8F91D56221AB8F3266879.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Import_du_030622/Cage/lambert1.uasset'
+[2022.06.08-11.55.53:659][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/lambert127AA1D8914514D69613F082B81A402B68.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Props/Modé_Muerts/lambert12.uasset'
+[2022.06.08-11.55.53:660][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Francois/Model_3d/MI_dessin" FILE="../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Francois/Model_3d/MI_dessin.uasset" SILENT=true
+[2022.06.08-11.55.53:664][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/MI_dessin0ADA14F14F447EAD715952B02797B2BA.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Francois/Model_3d/MI_dessin.uasset'
+[2022.06.08-11.55.53:676][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Francois/Model_3d/M_dessin" FILE="../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Francois/Model_3d/M_dessin.uasset" SILENT=true
+[2022.06.08-11.55.53:680][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/M_dessinCF54499F40970C496DB8289FD3E00C57.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Francois/Model_3d/M_dessin.uasset'
+[2022.06.08-11.55.53:712][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/MurCour_DC2B253134933F1E5CD8BF9B99C164240.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Props/Modé_Muerts/MurCour_D.uasset'
+[2022.06.08-11.55.53:744][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/lambert11967255E44D32AF21CD8BFFA87F5078A1.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Props/Modé_Muerts/lambert11.uasset'
+[2022.06.08-11.55.53:770][757]LogSavePackage: Moving '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Saved/MurCour_G92AC558B4C2EC6BE255A76BA00320220.tmp' to '../../../../../../ChildhoodAdventure/ChildhoodAdventure/Childhood_Adventure/Content/Danial/Props/Modé_Muerts/MurCour_G.uasset'
+[2022.06.08-11.55.53:785][757]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.08-11.55.53:785][757]LogContentValidation: Display: Validating Material /Game/Léo/Destructible_mesh/Mur1.Mur1
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating Material /Game/Danial/Import_du_030622/Cage/lambert1.lambert1
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating Material /Game/Danial/Import_du_030622/Balencoire/Balencoire.Balencoire
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Francois/Model_3d/MI_dessin.MI_dessin
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating Material /Game/Francois/Model_3d/M_dessin.M_dessin
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating Material /Game/Danial/Props/Modé_Muerts/lambert12.lambert12
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating StaticMesh /Game/Danial/Props/Modé_Muerts/MurCour_G.MurCour_G
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating Material /Game/Danial/Props/Modé_Muerts/lambert11.lambert11
+[2022.06.08-11.55.53:786][757]LogContentValidation: Display: Validating StaticMesh /Game/Danial/Props/Modé_Muerts/MurCour_D.MurCour_D
